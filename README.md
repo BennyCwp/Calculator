@@ -1,3 +1,3 @@
-creating a functionable calculator with HTML, CSS & Javascript \n
+creating a functionable calculator with HTML, CSS & Javascript 
 
 i) add keyboard interaction
